@@ -1,0 +1,11 @@
+C:\Users\EHSAN\Desktop\rasp\HelloRaspbian\bin\helloraspbian.deps.json
+C:\Users\EHSAN\Desktop\rasp\HelloRaspbian\bin\helloraspbian.runtimeconfig.json
+C:\Users\EHSAN\Desktop\rasp\HelloRaspbian\bin\helloraspbian.runtimeconfig.dev.json
+C:\Users\EHSAN\Desktop\rasp\HelloRaspbian\bin\helloraspbian.dll
+C:\Users\EHSAN\Desktop\rasp\HelloRaspbian\bin\helloraspbian.pdb
+C:\Users\EHSAN\Desktop\rasp\HelloRaspbian\obj\Release\netcoreapp2.0\helloraspbian.csprojAssemblyReference.cache
+C:\Users\EHSAN\Desktop\rasp\HelloRaspbian\obj\Release\netcoreapp2.0\helloraspbian.csproj.CoreCompileInputs.cache
+C:\Users\EHSAN\Desktop\rasp\HelloRaspbian\obj\Release\netcoreapp2.0\helloraspbian.AssemblyInfoInputs.cache
+C:\Users\EHSAN\Desktop\rasp\HelloRaspbian\obj\Release\netcoreapp2.0\helloraspbian.AssemblyInfo.cs
+C:\Users\EHSAN\Desktop\rasp\HelloRaspbian\obj\Release\netcoreapp2.0\helloraspbian.dll
+C:\Users\EHSAN\Desktop\rasp\HelloRaspbian\obj\Release\netcoreapp2.0\helloraspbian.pdb

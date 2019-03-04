@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <RuntimeIdentifiers>win10-arm;ubuntu.16.04-arm;linux-arm</RuntimeIdentifiers>
+    <LangVersion>7.3</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Device.Gpio" Version="0.1.0-prerelease.19078.2" />
+    <PackageReference Include="System.Memory" Version="4.5.2" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+C:\Users\EHSAN\Desktop\rasp\HelloRaspbian\bin\Release\netcoreapp2.0\linux-arm\libhostpolicy.so
+C:\Users\EHSAN\Desktop\rasp\HelloRaspbian\bin\Release\netcoreapp2.0\linux-arm\libhostfxr.so
+C:\Users\EHSAN\Desktop\rasp\HelloRaspbian\bin\Release\netcoreapp2.0\linux-arm\helloraspbian
+C:\Users\EHSAN\Desktop\rasp\HelloRaspbian\bin\Release\netcoreapp2.0\linux-arm\helloraspbian.deps.json
+C:\Users\EHSAN\Desktop\rasp\HelloRaspbian\bin\Release\netcoreapp2.0\linux-arm\helloraspbian.runtimeconfig.json
+C:\Users\EHSAN\Desktop\rasp\HelloRaspbian\bin\Release\netcoreapp2.0\linux-arm\helloraspbian.runtimeconfig.dev.json
+C:\Users\EHSAN\Desktop\rasp\HelloRaspbian\bin\Release\netcoreapp2.0\linux-arm\helloraspbian.dll
+C:\Users\EHSAN\Desktop\rasp\HelloRaspbian\bin\Release\netcoreapp2.0\linux-arm\helloraspbian.pdb
+C:\Users\EHSAN\Desktop\rasp\HelloRaspbian\obj\Release\netcoreapp2.0\linux-arm\helloraspbian.csprojAssemblyReference.cache
+C:\Users\EHSAN\Desktop\rasp\HelloRaspbian\obj\Release\netcoreapp2.0\linux-arm\helloraspbian.csproj.CoreCompileInputs.cache
+C:\Users\EHSAN\Desktop\rasp\HelloRaspbian\obj\Release\netcoreapp2.0\linux-arm\helloraspbian.AssemblyInfoInputs.cache
+C:\Users\EHSAN\Desktop\rasp\HelloRaspbian\obj\Release\netcoreapp2.0\linux-arm\helloraspbian.AssemblyInfo.cs
+C:\Users\EHSAN\Desktop\rasp\HelloRaspbian\obj\Release\netcoreapp2.0\linux-arm\helloraspbian.dll
+C:\Users\EHSAN\Desktop\rasp\HelloRaspbian\obj\Release\netcoreapp2.0\linux-arm\helloraspbian.pdb
